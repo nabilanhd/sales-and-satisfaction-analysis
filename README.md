@@ -1,2 +1,11 @@
-# sales-and-satisfaction-analysis
-Data analysis project evaluating treatment impact on sales and customer satisfaction using Excel and Power Query.
+# Sales and Satisfaction Analysis
+
+This project evaluates the effectiveness of a treatment intervention on sales performance and customer satisfaction across segmented customer groups.  
+Using Power Query and Excel, I cleaned, transformed, and analyzed customer data to deliver actionable insights and recommendations.
+
+## Key Highlights
+- 📊 Increased sales by 38% in Treatment group
+- 🤝 Satisfaction improved in Low & Medium segments, but declined in High Value segment
+- 🧠 Proposed segment-specific strategies to balance growth and experience
+
+📄 Full report available in [Project-Sales-and-Satisfaction.pdf](./Project-Sales-and-Satisfaction.pdf)
